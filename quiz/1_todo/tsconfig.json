@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitAny": true // 타입이 정의되지 않은 코드를 허용하지 않음
+  },
+  "include": ["./src/**/*"]
+}
